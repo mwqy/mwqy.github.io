@@ -5,12 +5,74 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2024/03/16/hello-world/"/>
-      <url>/2024/03/16/hello-world/</url>
+      <link href="/posts/1.html"/>
+      <url>/posts/1.html</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> 日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>国旗下讲话</title>
+      <link href="/posts/2.html"/>
+      <url>/posts/2.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="小学最后一次国旗下讲话"><a href="#小学最后一次国旗下讲话" class="headerlink" title="小学最后一次国旗下讲话"></a>小学最后一次国旗下讲话</h2><h2 id="稿子"><a href="#稿子" class="headerlink" title="稿子"></a>稿子</h2><p>文本格式</p><figure class="highlight txt"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br></pre></td><td class="code"><pre><span class="line">升旗仪式“国旗下的队课”主持示范稿</span><br><span class="line">第一部分:主持人开场介绍</span><br><span class="line">尊敬的老师，亲爱的同学们: 大家上午好!</span><br><span class="line">我是来自六四中队的黄佳琪。</span><br><span class="line">春之伊始，万木生发。伴随着泥土的馨香，播撒着早春的绿色，倾听着动人的鸟鸣，我们即将迎来第46个植树节。“草木植成，国之富也。”过去40多年来，我国造出了全世界面积最大的人工林，成为全球森林资源增长最多的国家。这一历史性、世界性的成就，同广泛开展国土绿化行动、动员全社会参与义务植树密不可分。与森林资源增长同样宝贵的，是生态文明意识与观念的深入人心，是“一任接着一任干”实干哲学的不断传承，是“绿水青山就是金山银山”理念的践行。</span><br><span class="line">下面有请、六四班为我们带来国旗下的队课《拥抱春天，播种绿色》，请大家转向大屏幕。</span><br><span class="line">第二部分:国旗下的队课</span><br><span class="line">A:中国的植树节由凌道扬等林学家于1915年倡议设立，最初定在每年清明节。1928年，国民政府为纪念孙中山逝世三周年，将植树节改为3月12日。新中国成立后的1979年，在邓小平爷爷提议下第五届全国人大常委会第六次会议决定将每年的3月12日定为植树节。直至2020年7月1日施行新修订的《中华人民共和国森林法》，明确每年3月12日为植树节。于是，3月12日便成为了我们耳熟能详的植树节。请广播室播放视频。</span><br><span class="line">B:我们中华民族自古就有“爱树、育树”的传统，爱白杨的挺拔，爱垂柳的柔美，爱松树不屈的风骨。树不仅能防风固沙，保持水土，还能美化环境。然而，迈入20世纪90年代，随着经济社会的快速发展，全球森林面积却以平均每年2.4%的速度缩减。不仅如此，全球荒漠化面积已经达到3,600万平方千米，占陆地总面积的1/4，而解决这所有问题的方法只有一种--植树造林。山西右玉的蜕变就是一个缩影，曾是不毛之地的它，正是凭借当地干部群众“一张铁锹两只手，咬定绿化不放松”的劲头，成就了如今的塞上绿洲。</span><br><span class="line">C:习近平爷爷曾说，植树节最重要的意义就在于建立生态文明的意识和观念。“众人拾柴火焰高，众人植树树成林。”义务植树不仅是全民参与生态文明建设的一项重要活动，而且是一项法定义务同时应该看到，一方面，人们改善生态的愿望、爱绿植绿护绿的自觉性越来越强，城乡居民居家植绿种养花草已成习惯，植纪念树、造纪念林成为风尚;另一方面，各地城镇周边、交通便利的地方已基本完成绿化，可用于义务植树的地块越来越少，宜林地大多处于远离城镇、交通不便的区域，人们参加义务植树越来越难。如何创新义务植树方式，成为新的课题。</span><br><span class="line">D:近年来，造林绿化、自然保护、认种认养..…不断创新的方式，正在让全民义务植树工作更广领域、更大范围发展。特别是，伴随着互联网应用的推广普及，“网络植树”已经成为可能，不仅增进了义务植树的群众性和广泛性，而且激发了义务植树的成就感和荣誉感。许多地方通过全民义务植树网，向当年完成植树义务的人颁发尽责电子证书，这不仅是激励人们参与义务植的一种手段，也是新形势下义务植树工作的一项创新。我们作为少先队员，也应当积极参与此项活动为社会贡献出自己的一份力。同时，在周末，我们六4班同学也积极参与学校的植树活动，在后花园中种下了一棵树苗，为同学们起到榜样作用。让我们一起行动起来吧!</span><br><span class="line">E:义务植树，人人都是受益者，人人也都应该是参与者。就让我们从自己做起、从现在开始像保护眼睛一样保护我们校园里的一草一木，同时积极参加社区、学校、班级组织的护绿活动，努力让我们生活的环境多一片绿色、多一份温馨，以点滴力量汇聚成爱绿护绿的磅礴伟力!</span><br><span class="line">接下来请 六四 班全体同学为我们带来诗朗诵</span><br><span class="line">一棵绿树</span><br><span class="line">三月十二日，</span><br><span class="line">在清澈的小河边，</span><br><span class="line">种下一棵绿树，</span><br><span class="line">种下一颗美好的心愿，</span><br><span class="line">从此，</span><br><span class="line">就有一颗绿色的希望，</span><br><span class="line">随同小树一起向上生长，</span><br><span class="line">让一个幼小的生命。</span><br><span class="line">在正直中直立向上!</span><br><span class="line">那是我们想象的心情，</span><br><span class="line">在向太阳挥动者绿色的翅膀，</span><br><span class="line">让金色的阳光，</span><br><span class="line">赐给小树美好的愿望!</span><br><span class="line">看我们用一棵棵栽下的小树</span><br><span class="line">给大地穿上绿色的盛装，</span><br><span class="line">让大地母亲的肌肤更加丰润!</span><br><span class="line">让我们的小树穿上茂盛的思想，</span><br><span class="line">开出花朵结出歌唱的芬芳，</span><br><span class="line">让小鸟的愉快在小树上搭窝构想，</span><br><span class="line">欢乐的气氛在小树的绿叶上弹唱!</span><br><span class="line">看，我们亲手把一个美丽的童话世界植下!</span><br><span class="line">我们去植树吧!植下身心愉悦的未来!</span><br><span class="line">植下一年四季都是春天的景色!</span><br><span class="line">我们去植树吧!植下身心愉悦的未来!</span><br><span class="line">植下一年四季都是春天的景色!</span><br><span class="line">同时，我校以“废旧容器换新生，航空育种启新”为主题，积极开展了有关植树节的活动，大家请看，每个年级都有着丰富多彩的植树节活动。其中一五年级负贵种植美丽娇艳的太空百合，二年级同学负责种植蔬菜瓜果，三年级同学负责种植棉花向日葵，四年级同学则负责种植凤仙花中草药，六年级同学负责种植水果核。希望大家都能收获到一定的成果。</span><br><span class="line">第三部分:文明班级值周情况</span><br><span class="line">感谢六四班为我们带来国旗下的队课。接下来有请老师对上周的值周情况作值周总结。感谢老师，本周文明示范班是</span><br><span class="line">值周教师是老师。</span><br><span class="line">第四部分:主持人结束语</span><br><span class="line">本周升旗仪式到此结束，请各班有序退场</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 毕业季 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 班级 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇文章</title>
+      <link href="/posts/3.html"/>
+      <url>/posts/3.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电脑 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 个人 </tag>
+            
+        </tags>
       
     </entry>
     
