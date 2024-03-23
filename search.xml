@@ -4,17 +4,42 @@
   
     
     <entry>
+      <title>初始化</title>
+      <link href="/posts/1.html"/>
+      <url>/posts/1.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h2><figure class="highlight txt"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">https://z1.wzznft.com/i/2024/03/23/e4gwcg.jpeg</span><br><span class="line">https://z1.wzznft.com/i/2024/03/23/e4gxvi.webp</span><br><span class="line">https://z1.wzznft.com/i/2024/03/23/e4h2ve.jpg</span><br><span class="line">https://z1.wzznft.com/i/2024/03/23/e4haps.jpeg</span><br><span class="line">https://z1.wzznft.com/i/2024/03/23/e4ha0s.webp</span><br><span class="line">https://z1.wzznft.com/i/2024/03/23/e4hcaf.webp</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 初始化 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>凯莉</title>
-      <link href="/posts/503970b4.html"/>
-      <url>/posts/503970b4.html</url>
+      <link href="/posts/3.html"/>
+      <url>/posts/3.html</url>
       
-        <content type="html"><![CDATA[<p><img src="https://z1.wzznft.com/i/2024/03/19/xz035x.jpg"><br><img src="https://z1.wzznft.com/i/2024/03/19/xz0c6g.jpg"></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="photos"><a href="#photos" class="headerlink" title="photos"></a>photos</h2><p><img src="https://z1.wzznft.com/i/2024/03/19/xz035x.jpg"><br><img src="https://z1.wzznft.com/i/2024/03/19/xz0c6g.jpg"></p>]]></content>
       
+      
+      <categories>
+          
+          <category> 个人 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 隐私 </tag>
+            <tag> 个人 </tag>
             
         </tags>
       
@@ -32,7 +57,7 @@
       
       <categories>
           
-          <category> 日记 </category>
+          <category> 个人 </category>
           
       </categories>
       
@@ -65,31 +90,6 @@
         <tags>
             
             <tag> 班级 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第一篇文章</title>
-      <link href="/posts/3.html"/>
-      <url>/posts/3.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> 电脑 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 个人 </tag>
             
         </tags>
       
