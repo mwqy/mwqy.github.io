@@ -1,0 +1,22 @@
+<hr />
+<p>title: hexo搭建博客
+date: 2024-04-14 21:03:31</p>
+<h2 id="tags">tags:</h2>
+<h2 id="">参考</h2>
+<p>参考了安知鱼、fomalhut的文章。</p>
+<h2 id="-1">环境准备</h2>
+<p>win 10
+vscode
+github账号</p>
+<h2 id="nodejs">一、nodejs安装</h2>
+<p>打开nodejs官网，https://nodejs.org/en/download/，下载自己喜欢的版本，建议下载16以下的版本。历史版本链接：https://nodejs.org/en/download/releases/。
+<a href="https://imgse.com/i/pFv39K0"><img src="https://s21.ax1x.com/2024/04/14/pFv39K0.png" alt="pFv39K0.png" /></a></p>
+<p>安装过程请参考度娘。</p>
+<p>按下win+R,输入cmd,在cmd窗口输入 node -v、 npm -v，正常的话会显示版本号。</p>
+<p>修改npm源（可选）</p>
+<pre><code class="shell language-shell">npm config set registry https://registry.npm.taobao.org
+</code></pre>
+<h2 id="git">二、git安装</h2>
+<p>打开git淘宝开源镜像网站：https://registry.npmmirror.com/binary.html?path=git-for-windows/v2.36.1.windows.1/，选择自己合适的版本。
+<a href="https://imgse.com/i/pFv30Z8"><img src="https://s21.ax1x.com/2024/04/14/pFv30Z8.md.png" alt="pFv30Z8.md.png" /></a></p>
+<p>安装过程请参考度娘。</p>
